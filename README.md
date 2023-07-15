@@ -23,7 +23,7 @@ I HAVE THE THREE SCRIPTS EACH FOR SPECIFIC TASK <br>
 
 ## Installation
 THESE ARE THE INSTRUCTION TO INSTALL THE python-automation-instagram <br>
-$ https://github.com/Crazyoh123/python-automation-instagram/
-$ cd python-automation-instagram
-$ pip3 install -r requirements.txt
-$python3 script you like!
+$ https://github.com/Crazyoh123/python-automation-instagram/<br>
+$ cd python-automation-instagram<br>
+$ pip3 install -r requirements.txt<br>
+$python3 script you like!<br>
