@@ -6,8 +6,8 @@ from selenium.webdriver.support import expected_conditions as EC
 
 class Login:
     def login(self):
-        username = 'dummy00890'
-        password = 'dummy008901'
+        username = 'ENTER YOUR USERNAME'
+        password = 'ENTER YOUR PASSWORD'
 
         driver = webdriver.Chrome()
 
